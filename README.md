@@ -19,7 +19,7 @@ sudo docker image pull abdullinilgiz/iris
 ```
 Чтобы запустить образ выполните:
 ```bash
-docker run -d --name iris-container 8000:8000 abdullinilgiz/iris
+docker run -d --name iris-container -p 8000:8000 abdullinilgiz/iris
 ```
 ### Время
 Оцените время, которое вам потребуется на выполнение заданий и вышлите свою оценку ответным письмом.
