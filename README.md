@@ -15,7 +15,7 @@ REST сервис на FastAPI вы можете найти в файле `app/m
 
 Образ вы можете найти по [ссылке](https://hub.docker.com/repository/docker/abdullinilgiz/iris/general).
 ```bash
-sudo docker image pull abdullinilgiz/iris
+docker image pull abdullinilgiz/iris
 ```
 Чтобы запустить образ выполните:
 ```bash
@@ -25,4 +25,4 @@ docker run -d --name iris-container -p 8000:8000 abdullinilgiz/iris
 Оцените время, которое вам потребуется на выполнение заданий и вышлите свою оценку ответным письмом.
 
 Задание было получено и даны разъеснения 23.09.2024 16:25.
-Завершил задание 25.09.2024.
+Завершил задание 25.09.2024 23:20.
